@@ -1,4 +1,4 @@
-public class rubl2 {
+public class Rubl2 {
     public static void main(String[] args) {
         int account = 1050;
         int balance = 100;
