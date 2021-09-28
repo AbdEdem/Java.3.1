@@ -3,6 +3,6 @@ public class Miles {
         int money = 500;
         int bonus = 20;
         int totalBonus = money / bonus;
-        System.out.println(bonus);
+        System.out.println(totalBonus);
     }
 }
